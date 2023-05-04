@@ -85,6 +85,7 @@ h1 {
   width: 80%;
   align-self: center;
   border-radius: 10px;
+  border-style:none;
 }
 
 .btn:hover {
